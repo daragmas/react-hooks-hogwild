@@ -150,3 +150,12 @@ ul {
     transform: rotate(360deg);
   }
 }
+
+.hidden{
+  display: none;
+}
+
+.pigTile img{
+  width:400px;
+  height:auto
+}
